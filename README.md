@@ -7,10 +7,6 @@
   
 ### 🌱 I’m currently learning 
   <span><img src="https://img.shields.io/badge/Kotlin-428cdb?style=flat-square&logo=kotlin&logoColor=white"/><span>
-### 💡 The language I want to learn 
-<span><img src="https://img.shields.io/badge/HTML-fc2a00?style=flat-square&logo=html5&logoColor=white"/><span>
-  <span><img src="https://img.shields.io/badge/CSS-0069fc?style=flat-square&logo=css3&logoColor=white"/><span>
-    <span><img src="https://img.shields.io/badge/Javascript-d2eb54?style=flat-square&logo=javascript&logoColor=white"/><span>
 
 <!--###Tool
 ![VSCode](http://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
