@@ -24,8 +24,8 @@
 <a href="mailto:bhindor@naver.com"><img src="https://img.shields.io/badge/Naver-69e373?style=flat-square&logo=Naver&logoColor=white&link=bhindor@naver.com"/></a>
 <a href="https://www.instagram.com/bhindor"><img src="https://img.shields.io/badge/Instagram-a640a4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bhindor"/></a>
 
-![bhindor's github stats](https://github-readme-stats.vercel.app/api?username=bhindor&theme=vue&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhindor&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+<!--### ![bhindor's github stats](https://github-readme-stats.vercel.app/api?username=bhindor&theme=vue&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhindor&theme=vue&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)<br> -->
       
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&reversal=false&section=footer)
 </div>
